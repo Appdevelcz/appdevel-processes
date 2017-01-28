@@ -4,8 +4,9 @@ Bookmarky apod. k Laravelu
 ## Užitečné balíčky
 - [Zizaco/entrust](https://github.com/Zizaco/entrust) - Entrust is a succinct and flexible way to add Role-based Permissions to Laravel 5.
 - laravel/tinker - od 5.4 není v instalaci
-- [laravelcollective/html](https://laravelcollective.com/docs/5.3/html) - Forms & HTML, původně bylo součástí Laravel
+- [Bootforms](https://github.com/adamwathan/bootforms) - Rapid form generation with Bootstrap 3 and Laravel.
 - [acacha/adminlte-laravel](https://github.com/acacha/adminlte-laravel) - AdminLTE theme
+- [Laravel datatables](https://datatables.yajrabox.com)
 
 ## Užitečné online nástroje
 - [Laravel Scheme Generator](http://laravelsd.com/)
