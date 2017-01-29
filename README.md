@@ -7,6 +7,7 @@ Bookmarky apod. k Laravelu
 - [Bootforms](https://github.com/adamwathan/bootforms) - Rapid form generation with Bootstrap 3 and Laravel.
 - [acacha/adminlte-laravel](https://github.com/acacha/adminlte-laravel) - AdminLTE theme
 - [Laravel datatables](https://datatables.yajrabox.com)
+- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel Debugbar (Integrates PHP Debug Bar)
 
 ## Užitečné online nástroje
 - [Laravel Scheme Generator](http://laravelsd.com/)
