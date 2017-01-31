@@ -12,6 +12,7 @@ Bookmarky apod. k Laravelu
 ## Užitečné online nástroje
 - [Laravel Scheme Generator](http://laravelsd.com/)
 - Laravel TestTools - Chrome extension ke generování integračních testů
+- [MAILTRAP.IO](https://mailtrap.io) - pro pohodlné testování emailů
 
 ## NON Laravel resources
 - www.rapidapi.com
