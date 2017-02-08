@@ -8,6 +8,7 @@ Bookmarky apod. k Laravelu
 - [acacha/adminlte-laravel](https://github.com/acacha/adminlte-laravel) - AdminLTE theme
 - [Laravel datatables](https://datatables.yajrabox.com)
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel Debugbar (Integrates PHP Debug Bar)
+- [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - Knihovna pro práci s datumy
 
 ## Užitečné online nástroje
 - [Laravel Scheme Generator](http://laravelsd.com/)
