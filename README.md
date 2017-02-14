@@ -9,6 +9,8 @@ Bookmarky apod. k Laravelu
 - [Laravel datatables](https://datatables.yajrabox.com)
 - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Laravel Debugbar (Integrates PHP Debug Bar)
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - Knihovna pro práci s datumy
+- [laravel-mailable-test](https://github.com/spatie/laravel-mailable-test) - It provides an artisan command that can send a mailable to a specific mail address.
+- [laravel-mail-preview](https://github.com/themsaid/laravel-mail-preview) - Instead of sending the actual mail that package will save the mail to the filesystem. In the browser it will display a little notice that a mail was sent. Clicking on the link in that notice will display the saved mail right in your browser.
 
 ## Užitečné online nástroje
 - [Laravel Scheme Generator](http://laravelsd.com/)
