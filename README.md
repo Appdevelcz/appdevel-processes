@@ -11,6 +11,7 @@ Bookmarky apod. k Laravelu
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - Knihovna pro práci s datumy
 - [laravel-mailable-test](https://github.com/spatie/laravel-mailable-test) - It provides an artisan command that can send a mailable to a specific mail address.
 - [laravel-mail-preview](https://github.com/themsaid/laravel-mail-preview) - Instead of sending the actual mail that package will save the mail to the filesystem. In the browser it will display a little notice that a mail was sent. Clicking on the link in that notice will display the saved mail right in your browser.
+- [PHP-Vars-To-Js-Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - Transform PHP Vars to JavaScript
 
 ## Užitečné online nástroje
 - [Laravel Scheme Generator](http://laravelsd.com/)
