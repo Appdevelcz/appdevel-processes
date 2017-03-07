@@ -14,6 +14,7 @@ Bookmarky apod. k Laravelu
 - [PHP-Vars-To-Js-Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - Transform PHP Vars to JavaScript
 
 ## Užitečné online nástroje
+- [laravel/tinker](https://github.com/laravel/tinker) Laravel Tinker is a powerful REPL for the Laravel framework.
 - [Laravel Scheme Generator](http://laravelsd.com/)
 - Laravel TestTools - Chrome extension ke generování integračních testů
 - [MAILTRAP.IO](https://mailtrap.io) - pro pohodlné testování emailů
