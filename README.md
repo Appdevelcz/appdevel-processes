@@ -16,9 +16,11 @@ Přidávám svůj [startovací script](https://github.com/Appdevelcz/appdevel-pr
 
 ### Poznámaka ke kódu 
 
-Controllery držte pokud možno štíhlé, ideálně pouze CRUD. Pokud je potřeba něco navíc, tak zvažte další controller. Pokud je potřeba nějaká business logika, tak použíjte např Repository pattern, Service... Těch možností je v Laravelu víc. Obecně pokud vám nějaká metoda přesáhne obrazovku, tak je třeba ji refaktorovat.
+Controllery držte pokud možno štíhlé, ideálně pouze CRUD. Pokud je potřeba něco navíc, tak zvažte další controller. Pokud je potřeba nějaká business logika, tak použijte např Repository pattern, Service... Těch možností je v Laravelu víc. 
 
-Používejte samo-vysvětlující popisné názvy metod a proměnných. V IDE, které našeptává to není problém a zvíší se tím čitelnost.
+Obecně pokud vám nějaká metoda přesáhne obrazovku, tak je třeba ji refaktorovat.
+
+Používejte samo-vysvětlující popisné názvy metod a proměnných. V IDE, které našeptává to není problém a zvýší se tím čitelnost.
 
 Používejte camelCase pro metody a underscore pro proměnné. Uvádět typ jako prefix není potřeba.
 
