@@ -16,6 +16,8 @@ Přidávám svůj [startovací script](https://github.com/Appdevelcz/appdevel-pr
 
 ### Poznámaka ke kódu 
 
+Na všechno existují hotové balíčky, tutoriály, odpověď na Stack overflow... Používejte je. Je dobré začít od Laravel dokumentace a Laracastu. Další krok je vždy dát do vyhledávání "laravel hledaná_funkce". 
+
 Controllery držte pokud možno štíhlé, ideálně pouze CRUD. Pokud je potřeba něco navíc, tak zvažte další controller. Pokud je potřeba nějaká business logika, tak použijte např Repository pattern, Service... Těch možností je v Laravelu víc. 
 
 Obecně pokud vám nějaká metoda přesáhne obrazovku, tak je třeba ji refaktorovat.
