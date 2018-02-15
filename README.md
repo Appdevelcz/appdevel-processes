@@ -14,6 +14,12 @@ Vyvíjíte potom ve svém oblíbeném IDE na lokálních souborech, ale v prohl�
 
 Přidávám svůj [startovací script](https://github.com/Appdevelcz/appdevel-processes/blob/master/laradock.sh), který spustí požadované služby a rovnou se přihlásí do bash jako uživatel laradock (ne jako root).
 
+## Dokumentace
+
+Dokumentaci piště průběžně do README.md příslušného projektu přímo ve vašem IDE. Nemusí být extra formální, ale piště tam toho co nejvíce. Kód by měl být pokud možno samo-vysvětlující. Do README.md ale patří všechno ostatní. Např. extra nastavení nastavení laravel .ENV, integrace API, různé záludnosti a vyjímky v business logice, crony, queues apod. Cokoliv co jste vy nebo někdo jiný měl o projektu vědět za týden, za rok, za dva.
+
+Pokud je nějaká funkcionalita potřeba uživateli popsat, tak idealně přímo do templatu. Pokud je to informace pro klienta, jak tak patří také do README.md.
+
 ## Github
 
 Pro verzování používáme Git a jako hlavní repository Github. Záleží na komplexnosti projektu, ale většinou není potřeba více větví (branches Master, Stage, Devel). Dělejte spíš více menších commitů a hned to git push, aby byly commity přehledné a mohli se sledovat denní práce. 
