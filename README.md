@@ -14,6 +14,14 @@ Vyvíjíte potom ve svém oblíbeném IDE na lokálních souborech, ale v prohl�
 
 Přidávám svůj [startovací script](https://github.com/Appdevelcz/appdevel-processes/blob/master/laradock.sh), který spustí požadované služby a rovnou se přihlásí do bash jako uživatel laradock (ne jako root).
 
+### Poznámaka ke kódu 
+
+Controllery držte pokud možno štíhlé, ideálně pouze CRUD. Pokud je potřeba něco navíc, tak zvažte další controller. Pokud je potřeba nějaká business logika, tak použíjte např Repository pattern, Service... Těch možností je v Laravelu víc. Obecně pokud vám nějaká metoda přesáhne obrazovku, tak je třeba ji refaktorovat.
+
+Používejte samo-vysvětlující popisné názvy metod a proměnných. V IDE, které našeptává to není problém a zvíší se tím čitelnost.
+
+Používejte camelCase pro metody a underscore pro proměnné. Uvádět typ jako prefix není potřeba.
+
 ## Dokumentace
 
 Dokumentaci piště průběžně do README.md příslušného projektu přímo ve vašem IDE. Nemusí být extra formální, ale piště tam toho co nejvíce. Kód by měl být pokud možno samo-vysvětlující. Do README.md ale patří všechno ostatní. Např. extra nastavení nastavení laravel .ENV, integrace API, různé záludnosti a vyjímky v business logice, crony, queues apod. Cokoliv co jste vy nebo někdo jiný měl o projektu vědět za týden, za rok, za dva.
