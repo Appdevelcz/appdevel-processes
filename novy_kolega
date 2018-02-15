@@ -1,0 +1,11 @@
+# Co zařídit pro nového kolegu
+
+- podepsat smlouvu - musím dodat osobní údaje
+- zřídit email appdevel.cz
+- přidat na Github (buď je už registrován, potom potřebujeme jeho username nebo email, nebo si vytvoří účet a přešlé údaje pošle)
+- dát přečist https://github.com/Appdevelcz/appdevel-processes/blob/master/README.md
+- přidat jeho ssh public key na Laravel Forge pro ssh přístup na staging server
+- poslat přístup na staging server
+- vytvořit uživatele na Helpdesk
+- pozvat do Slack
+- poslat přístup na Laracast
