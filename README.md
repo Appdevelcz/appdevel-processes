@@ -52,7 +52,7 @@ Pro synchronní komunikaci používejte [Bluesystem Slack](http://bluesystem.sla
 
 Jinak úkoly se zadávají hlavně do [Helpdesku](https://helpdesk.bluesystem.cz/), kam reportuje postup a hodiny. Hodiny z Helpdesku slouží jako podklad pro fakturaci. Helpdesk proto aktualizujte **DENNĚ**. Pokud např. potřebujete stylování nebo nějaké podklady, tak vytvořte ticket, přiřaďte ho a nastavte požadovanou prioritu.
 
-Pro plánování týdenních prací upřednostňuji pravidelný krátký skype, nejlépe hned v pondělí. Projedeme co se udělalo, dáme priority, případně se domluvíme na podkladem, upřesnění zadání apod. Dejte vědět, kdy se vám to nejlépe hodí.
+Pro plánování týdenních prací upřednostňuji pravidelný krátký skype, nejlépe hned v pondělí nebo pátek. Projedeme co se udělalo, dáme priority, případně se domluvíme na podkladech, upřesnění zadání apod. Dejte vědět, kdy se vám to nejlépe hodí.
 
 ## Ostatní
 
