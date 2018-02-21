@@ -20,6 +20,7 @@ Doporučované balíčky, bookmarky, apod. k Laravelu
 ## NON Laravel resources
 - www.rapidapi.com - knihovna veřejných API
 - [Insomnia](https://insomnia.rest/) - REST klient pro ladení API
+- [Laradock](https://www.laradock.io) - Nakonfigurovaní Docker pro Laravel. [Ukázka startovacího skriptu](https://github.com/Appdevelcz/appdevel-processes/blob/master/laradock.sh)
 
 ## Inspirace
 Open source řešení na Laravelu
